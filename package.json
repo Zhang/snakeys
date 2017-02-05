@@ -1,0 +1,11 @@
+{
+  "name": "snakeCamelKeys",
+  "version": "1.0.0",
+  "description": "Create a snake_cased version of your camelCased object",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Zhang",
+  "license": "ISC"
+}
