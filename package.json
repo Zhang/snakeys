@@ -1,5 +1,5 @@
 {
-  "name": "snakeCamelKeys",
+  "name": "snakeys",
   "version": "1.0.0",
   "description": "Create a snake_cased version of your camelCased object",
   "main": "index.js",

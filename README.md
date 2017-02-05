@@ -1,4 +1,4 @@
-## snakeys -- transform a string to snakecase
+## Snakeys -- transform a string to snakecase
 
 Recursively transform an object's keys from camelCase to snake_case
 
